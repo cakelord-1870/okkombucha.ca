@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://okkombucha.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://okkombucha.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://okkombucha.ca/collections/current-flavours.atom"/>
+  <title>OK! KOMBUCHA</title>
+  <updated>2020-07-22T00:09:59-12:00</updated>
+  <author>
+    <name>OK! KOMBUCHA</name>
+  </author>
+  <entry>
+    <id>https://okkombucha.ca/products/5416566325408</id>
+    <published>2020-07-22T00:09:59-12:00</published>
+    <updated>2020-07-22T00:09:59-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://okkombucha.ca/products/ok-kombucha-glass-set"/>
+    <title>OK! Kombucha Glass Set</title>
+    <s:type>OK! Shopify</s:type>
+    <s:vendor>OK! KOMBUCHA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0028/3757/7801/products/okkombucha-glass.jpg?v=1601149985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OK! KOMBUCHA<br>
+        <strong>Type: </strong>OK! Shopify<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for sipping your favourite flavour of OK! Kombucha, these gorgeous glasses are 11oz with nucleation sites at the bottom so you can watch those bubbles rise!</p>
+<p>Now comes in a discounted set of 2!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>merch</s:tag>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5416566325408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>OKGLASSSET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://okkombucha.ca/products/5239526719648</id>
+    <published>2020-05-23T03:36:16-12:00</published>
+    <updated>2020-05-23T03:36:16-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://okkombucha.ca/products/copy-of-home-delivery"/>
+    <title>Home Delivery</title>
+    <s:type>OK! Shopify</s:type>
+    <s:vendor>OK! KOMBUCHA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0028/3757/7801/products/booch.png?v=1602183214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OK! KOMBUCHA<br>
+        <strong>Type: </strong>OK! Shopify<br>
+        <strong>Price: </strong>
+            30.00 - 48.00
+            <a href="https://okkombucha.ca/products/copy-of-home-delivery">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Current Variety Packs Include: <br></p>
+<ul>
+<li>2 x Ginger Jasmine</li>
+<li>2 x Pear Rosewater</li>
+<li>2 x Orange Cardamom</li>
+</ul>
+<ul></ul>
+<p>See delivery days for the current cities we deliver to. If your city is not listed below send us an email and we'll let you know if we have an upcoming delivery scheduled for your city.</p>
+<ul>
+<li>GTA - Monday, Wednesday and Friday<br>
+</li>
+<li>Newmarket Area - Every Monday<br>
+</li>
+<li>Oakville Area - Every Wednesday</li>
+<li>Hamilton Area - Every Wednesday</li>
+<li>Oshawa Area - Every Friday</li>
+<li>Ottawa Area - Every Tuesday and Friday</li>
+</ul>
+<p>*Make sure to pop your fresh kombucha in the fridge within 3 hours of arrival!*</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>12-pack / Variety Pack!</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>GIJPOBOJCx2S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>12-pack / Orange Cardamom</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>OJC6x2S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>12-pack / Pear Rosewater</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>PR6x2S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>12-pack / Ginger Jasmine</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>GIJ6x2S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>12-pack / Watermelon Mint</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>WM6x2S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>12-pack / Mango Lemonade</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>MGL6x2S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>12-pack / Peach Orange Blossom</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>POB6x2S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>6-pack / Variety Pack!</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>GIJPOBOJCS</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>6-pack / Orange Cardamom</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>OJC6S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>6-pack / Pear Rosewater</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>PR6S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>6-pack / Ginger Jasmine</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>GIJ6S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>6-pack / Watermelon Mint</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>WM6S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>6-pack / Mango Lemonade</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MGL6S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/5239526719648</id>
+      <title>6-pack / Peach Orange Blossom</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>POB6S</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://okkombucha.ca/products/2209365426249</id>
+    <published>2019-07-13T00:50:00-12:00</published>
+    <updated>2019-07-13T00:50:00-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://okkombucha.ca/products/artist-series-tote"/>
+    <title>OK! Kombucha Artist Series Tote</title>
+    <s:type>OK! Shopify</s:type>
+    <s:vendor>OK! KOMBUCHA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0028/3757/7801/products/okkombucha-tote.jpg?v=1601069864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OK! KOMBUCHA<br>
+        <strong>Type: </strong>OK! Shopify<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">We're super excited to launch our OK Kombucha tote, hopefully the first in a series of more artist collaborations. The totes are strong and gusseted, and include an outer bottle pocket!</div>
+<div style="text-align: left;">Tote design is by <a href="https://naimmoore.com" target="_blank">Naim Moore</a>, an artist currently based in Barcelona.</div>
+<div style="text-align: left;">Choose between left-side carry and right-side carry for the design to be on the outside while the bottle faces forward.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artist</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>tote</s:tag>
+    <s:variant>
+      <id>https://okkombucha.ca/products/2209365426249</id>
+      <title>Right</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>Tote-R</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://okkombucha.ca/products/2209365426249</id>
+      <title>Left</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>Tote-L</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>
